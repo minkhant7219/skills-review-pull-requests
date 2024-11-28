@@ -20,6 +20,7 @@ _Collaborate and work together on GitHub._
 -->
 
 ## Step 5: Apply suggested changes
+This is another suggestion
 
 _Nicely done suggesting changes! :partying_face:_
 
